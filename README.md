@@ -13,7 +13,7 @@
 
 ---
 ## Descripción
-Este proyecto es el backend principal de la tienda virtual Pokémon. Ha sido diseñado bajo los estándares de una **Prueba Técnica para Ingeniero de Implementación**, priorizando la modularidad, el tipado fuerte y la eficiencia en el manejo de persistencia local sin depender de bases de datos externas.
+Este proyecto es el backend principal de la tienda virtual Pokémon. Ha sido diseñado bajo priorización en la modularidad, el tipado fuerte y la eficiencia en el manejo de persistencia local sin depender de bases de datos externas.
 
 ## Tecnologías y Herramientas
 - **Framework:** NestJS con arquitectura de módulos, controladores y servicios.
